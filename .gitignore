@@ -1,1 +1,22 @@
+# Secrets
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
