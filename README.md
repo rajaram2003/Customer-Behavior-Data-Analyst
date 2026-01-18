@@ -60,8 +60,9 @@ An interactive **Power BI dashboard** was created to visualize:
 - Revenue and sales trends by age group
 - Product performance insights
 
-🔗 **Dashboard Link:**  
-https://your-demo-link.com/
+## 📊 Dashboard Peek
+
+![Power BI Dashboard Peek]()
 
 ---
 
